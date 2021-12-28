@@ -1,0 +1,20 @@
+{
+    "fuel": {
+        "type": "ring",
+        "title": {
+          "text": "油耗对比表"
+        },
+        "showValue": false,
+        "legend": {
+          "position": "bottom",
+          "bottom": 40
+        },
+        "bgColor": "#00000000",
+        "labels": ["本车", "react"],
+        "datasets": [
+          {
+            "data": [500, 500]
+          }
+        ]
+      }
+}

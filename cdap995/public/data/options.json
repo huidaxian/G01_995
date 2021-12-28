@@ -1,0 +1,37 @@
+{
+    "cars": [
+        {
+            "value":"all",
+            "label":"全部"
+        },
+        {
+                "value": "benchi",
+                "label": "奔驰",
+                "children":[
+                    {
+                        "value": "car1",
+                        "label": "2020款 改款 E 300 L 运动时尚型"
+                    },
+                    {
+                        "value":"car2",
+                        "label":"2019款 改款 E 300 L 运动时尚型"
+
+                    }
+                ]
+            },
+            {
+                "value":"bieke",
+                "label":"别克",
+                "children":[
+                    {
+                        "value": "car1",
+                        "label": "2020款 陆上公务舱 652T 豪华型"
+                    },
+                    {
+                        "value":"car2",
+                        "label":"2018款 28T 舒适型 国VI"
+                    }
+                ]
+            }
+    ]
+}
